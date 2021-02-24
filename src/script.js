@@ -24,7 +24,7 @@ class StopWatch extends React.Component {
         });
         
         startTime = stopTime;
-      }, 250); // Executed every 250 millisecond
+      }, 250);
     }
 
   }
